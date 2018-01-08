@@ -13,3 +13,6 @@ rabbitmq-service.bat install
 
 rabbitmq-service.bat start
 
+http://localhost:15672/#/queues
+
+
